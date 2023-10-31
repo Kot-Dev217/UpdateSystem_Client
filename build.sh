@@ -1,0 +1,1 @@
+gcc -o patcher patcher.c -lcurl -lzip
